@@ -2318,6 +2318,32 @@ body {
 .cid-quuQloRJBk .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-quw9ZjCnDj {
+  background-image: url("../../../assets/images/03.jpg");
+}
+.cid-quw9ZjCnDj .icons-media-container {
+  display: flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-quw9ZjCnDj .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-quw9ZjCnDj .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-quw9ZjCnDj .mbr-text {
+  color: #ffffff;
+}
+.cid-quw9ZjCnDj .card {
+  padding-bottom: 1.5rem;
+}
 .cid-quuQqyCMKl {
   padding-top: 45px;
   padding-bottom: 15px;
